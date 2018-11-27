@@ -1,6 +1,7 @@
 <?php
+echo "74293a6d"
 require_once './vendor/autoload.php';
-const VK_TOKEN = 'ae51ff9f59f0c40f029c67c3588466bcec1f7ff0f333404769952a31290c3cf097f5b7c0cfd90b0da4562';
+const VK_TOKEN = '      ';
 use VK\Client\Enums\VKLanguage;
 use VK\Client\VKApiClient;
 function myLog($str) {
