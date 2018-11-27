@@ -1,5 +1,5 @@
 <?php
-echo "74293a6d"
+echo "74293a6d";
 require_once './vendor/autoload.php';
 const VK_TOKEN = '      ';
 use VK\Client\Enums\VKLanguage;
